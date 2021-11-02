@@ -1,5 +1,5 @@
 # mlnmf
-Multilayer Nonnegative Matrix Factorization
+MLNMF: Multilayer Nonnegative Matrix Factorization
 
 The reference paper:  
 R. Rajabi and H. Ghassemian, "Spectral Unmixing of Hyperspectral Imagery Using Multilayer NMF," in IEEE Geoscience and Remote Sensing Letters, vol. 12, no. 1, pp. 38-42, Jan. 2015, doi: 10.1109/LGRS.2014.2325874.
